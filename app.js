@@ -1,1 +1,2 @@
-console.log("Hello");
+console.log("Testing");
+console.log("java.js");
